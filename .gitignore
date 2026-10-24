@@ -1,0 +1,10 @@
+# Biblioteca de skills y carpetas de trabajo de diseño (no se publican)
+claude-skills/
+.taste-skill/
+.impeccable/
+PRODUCT.md
+DESIGN.md
+# Restos temporales y respaldos viejos (traen texto de Medellín)
+.fuse_hidden*
+*.new
+assets/BulkResizePhotos.com.zip
