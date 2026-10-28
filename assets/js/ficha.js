@@ -4,7 +4,7 @@
   var reduce = window.matchMedia && window.matchMedia('(prefers-reduced-motion: reduce)').matches;
   var WA = '573155832882';
   function fmt(n) { return '$' + n.toLocaleString('es-CO').replace(/,/g, '.'); }
-  function track() { try { if (window.gtag) gtag('event', 'conversion', { send_to: 'AW-18473053798/VbWUCMno2IodEObc0ehE' }); } catch (e) {} }
+  function track() { try { if (window.gtag) gtag('event', 'conversion', { send_to: 'AW-18542513130/Tz7qCPmIgK0dEOqX4YlF' }); } catch (e) {} }
 
   /* --- calculadora por canal --- */
   var form = document.getElementById('calc');
